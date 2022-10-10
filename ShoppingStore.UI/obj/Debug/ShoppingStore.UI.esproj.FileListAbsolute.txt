@@ -1,0 +1,4 @@
+D:\SourceCodes\netcore_Practice\ShoppingStore\ShoppingStore.UI\ShoppingStore.UI\obj\Debug\ShoppingStore.UI.esproj.SuggestedBindingRedirects.cache
+D:\SourceCodes\netcore_Practice\ShoppingStore\ShoppingStore.UI\ShoppingStore.UI\obj\Debug\ShoppingStore.UI.esproj.CoreCompileInputs.cache
+D:\SourceCodes\netcore_Practice\ShoppingStore\ShoppingStore.UI\obj\Debug\ShoppingStore.UI.esproj.SuggestedBindingRedirects.cache
+D:\SourceCodes\netcore_Practice\ShoppingStore\ShoppingStore.UI\obj\Debug\ShoppingStore.UI.esproj.CoreCompileInputs.cache
